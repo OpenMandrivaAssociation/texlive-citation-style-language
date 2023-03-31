@@ -1,6 +1,6 @@
 Name:		texlive-citation-style-language
 Version:	65357
-Release:	1
+Release:	2
 Summary:	Bibliography formatting with Citation Style Language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/citation-style-language
