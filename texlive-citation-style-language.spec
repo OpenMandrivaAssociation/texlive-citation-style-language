@@ -1,5 +1,5 @@
 Name:		texlive-citation-style-language
-Version:	72157
+Version:	72292
 Release:	1
 Summary:	Bibliography formatting with Citation Style Language
 Group:		Publishing
