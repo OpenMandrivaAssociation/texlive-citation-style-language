@@ -3,7 +3,7 @@ Version:	72292
 Release:	1
 Summary:	Bibliography formatting with Citation Style Language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/citation-style-language
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/citation-style-language
 License:	mit cc-by-sa-3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/citation-style-language.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/citation-style-language.doc.r%{version}.tar.xz
